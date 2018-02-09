@@ -1,0 +1,2 @@
+$var="Test2"
+$var2="Test3"
