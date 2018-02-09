@@ -1,2 +1,3 @@
 $var="Test2"
 $var2="Test3"
+$var3="Test4"
